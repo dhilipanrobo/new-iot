@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "179928137159",
+    "firebase_url": "https://lediot-a520a.firebaseio.com",
+    "project_id": "lediot-a520a",
+    "storage_bucket": "lediot-a520a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179928137159:android:2de99319fc693dfba06de2",
+        "android_client_info": {
+          "package_name": "com.school_bus_tracking_system.dkapp.iot_led"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179928137159-6nrii9uh8m0jel76rm0imjao4q953bni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.school_bus_tracking_system.dkapp.iot_led",
+            "certificate_hash": "cbc2cbd20a41d3672a08769aaacfa78ba92f5cf9"
+          }
+        },
+        {
+          "client_id": "179928137159-9e5jjfg7kjbhncslebvuj4au75fnifrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLpOh47sVegDJAB0wYMVP-hLHAacTHoSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179928137159-9e5jjfg7kjbhncslebvuj4au75fnifrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
